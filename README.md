@@ -8,3 +8,4 @@
 - Currently a master of science in Computer Science student.
 - Currently working as a full-stack developer with Java and Angular.
 - Previous research experience in dynamic systems and control, autonomous flight and mechanical engineering design using C++, Arduino and python.
+- Previous work experience as a mechanical maintenance engineer.
