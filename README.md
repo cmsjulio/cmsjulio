@@ -1,10 +1,8 @@
 <h1 align='center'> Julio Cezar </h1>
 
+<h3 align='center'> Mechanical and software engineer </h3>
 
-### Mechanical and software engineer.
--------
-  
-## About
+---
 
 - Bachelor of science in Mechanical Engineering and graduate cerficated in Software Engineering.
 - Currently a master of science in Computer Science student.
