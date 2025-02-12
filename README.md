@@ -1,5 +1,6 @@
 <h1 align='center'> Julio Cezar </h1>
 
+<!-- Write your comments here 
 <h3 align='center'> Mechanical and software engineer </h3>
 
 ---
@@ -10,3 +11,4 @@
 - Previous research experience in dynamic systems and control, autonomous flight and mechanical engineering design using C++, Arduino and python.
 - Previous work experience as a mechanical maintenance engineer.
 - UAkron alumni
+––>
